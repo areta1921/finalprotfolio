@@ -26,7 +26,7 @@ const Contact = () => {
           console.log(error.text);
         }
       );
-      e.target.reset()
+    e.target.reset();
   };
 
   return (
@@ -56,7 +56,7 @@ const Contact = () => {
             <h4>WhatsApp</h4>
             <h5>+251922827821</h5>
             <a
-              href="https://api.whatsapp.com/send?phone+251922827821"
+              href="https://api.whatsapp.com/send?phone+19704155358"
               target="__blank"
             >
               Send a message
