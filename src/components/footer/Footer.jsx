@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import "./footer.css";
 import { BsFacebook } from "react-icons/bs";
 import { AiFillTwitterSquare } from "react-icons/ai";
@@ -33,13 +34,13 @@ const Footer = () => {
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="https://facebook.com" target="__blank">
+        <a href="https://www.facebook.com/absho19" target="__blank">
           <BsFacebook />
         </a>
-        <a href="https://twitter.com" target="__blank">
+        <a href="https://twitter.com/abrahamgetahun2" target="__blank">
           <AiFillTwitterSquare />
         </a>
-        <a href="https://instagram.com" target="__blank">
+        <a href="https://www.instagram.com/ab_sho19/" target="__blank">
           <AiOutlineInstagram />
         </a>
       </div>
