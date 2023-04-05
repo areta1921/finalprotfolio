@@ -66,6 +66,15 @@ header {
     font-size: 0.9rem;
 }
 
+.color-1 {
+    color: red;
+  }
+  
+  .color-2 {
+    color: blue;
+  }
+  
+
 /* =========MEDIA QUERIES (MEDIUM DEVICES)======== */
 @media screen and (max-width: 1024px) {
     header {
