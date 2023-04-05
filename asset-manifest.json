@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/finalprotfolio/static/css/main.18a61ed6.css",
-    "main.js": "/finalprotfolio/static/js/main.6d410f4a.js",
+    "main.css": "/finalprotfolio/static/css/main.8d0b3b21.css",
+    "main.js": "/finalprotfolio/static/js/main.180a60f8.js",
+    "static/media/bookstore.png": "/finalprotfolio/static/media/bookstore.ce086e3304f782d4be05.png",
     "static/media/me.png": "/finalprotfolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/bart.png": "/finalprotfolio/static/media/bart.77f4947b13911230b209.png",
+    "static/media/neba.png": "/finalprotfolio/static/media/neba.998c98cab67770330f64.png",
+    "static/media/mario.png": "/finalprotfolio/static/media/mario.44e1ed477d37ebcf32ee.png",
     "static/media/me-about.jpg": "/finalprotfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/portfolio5.png": "/finalprotfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/getu.png": "/finalprotfolio/static/media/getu.5987af06b66391d6cb7e.png",
+    "static/media/yelp.webp": "/finalprotfolio/static/media/yelp.1d499bf8e67516cddc33.webp",
     "static/media/resumeab.pdf": "/finalprotfolio/static/media/resumeab.4915ab4dfa0e86a9ec8d.pdf",
-    "static/media/portfolio2.jpg": "/finalprotfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/finalprotfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/finalprotfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/finalprotfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/finalprotfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/wikiverse.jpeg": "/finalprotfolio/static/media/wikiverse.d17f4487c2d6313b2e0a.jpeg",
+    "static/media/inventorylast.png": "/finalprotfolio/static/media/inventorylast.8a891f6cf22cea682e97.png",
+    "static/media/crypto1.webp": "/finalprotfolio/static/media/crypto1.21cfd931c450b8a6cc88.webp",
+    "static/media/login.webp": "/finalprotfolio/static/media/login.e532864502131ade51a5.webp",
     "index.html": "/finalprotfolio/index.html",
-    "main.18a61ed6.css.map": "/finalprotfolio/static/css/main.18a61ed6.css.map",
-    "main.6d410f4a.js.map": "/finalprotfolio/static/js/main.6d410f4a.js.map"
+    "main.8d0b3b21.css.map": "/finalprotfolio/static/css/main.8d0b3b21.css.map",
+    "main.180a60f8.js.map": "/finalprotfolio/static/js/main.180a60f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.18a61ed6.css",
-    "static/js/main.6d410f4a.js"
+    "static/css/main.8d0b3b21.css",
+    "static/js/main.180a60f8.js"
   ]
 }
